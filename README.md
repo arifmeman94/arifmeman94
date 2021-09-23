@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arifmeman94
+- 👋 Hi, I’m Arif Meman
 - 🌱 I’m currently learning Cloud Technologies, Python, etc...
 
 
